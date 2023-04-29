@@ -1,5 +1,5 @@
 {
-  "homepage":"http://baasir-stack.github.io/MERN_APP_NN",
+  "homepage": "http://baasir-stack.github.io/MERN_APP_NN",
   "proxy": "http://localhost:4000",
   "name": "frontend",
   "version": "0.1.0",
@@ -17,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "@types/date-fns": "^2.6.0"
+    "@types/date-fns": "^2.6.0",
+    "gh-pages": "^5.0.0"
   }
 }
