@@ -1,4 +1,5 @@
 {
+  "homepage":"http://baasir-stack.github.io/MERN_APP_NN",
   "proxy": "http://localhost:4000",
   "name": "frontend",
   "version": "0.1.0",
