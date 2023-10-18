@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN_APP_NN/static/css/main.aa2e6f64.css",
+    "main.js": "/MERN_APP_NN/static/js/main.c9d4a0c8.js",
+    "index.html": "/MERN_APP_NN/index.html",
+    "main.aa2e6f64.css.map": "/MERN_APP_NN/static/css/main.aa2e6f64.css.map",
+    "main.c9d4a0c8.js.map": "/MERN_APP_NN/static/js/main.c9d4a0c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2e6f64.css",
+    "static/js/main.c9d4a0c8.js"
+  ]
+}
