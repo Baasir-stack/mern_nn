@@ -1,6 +1,5 @@
 
 
-import React from 'react'
 import { useAuthContext } from './useAuthContext'
 import { useWorkoutsContext } from './useWorkoutsContext'
 
